@@ -1,0 +1,12 @@
+#simuContainer, #twinContainer {
+    display: inline-block;
+    float: left;
+}
+
+#camera_pos, #taskId, #modelId{
+    height: 28px;
+    width: 300px;
+    /* background: rgb(75, 209, 209); */
+    position: fixed;
+    float: left;
+}
